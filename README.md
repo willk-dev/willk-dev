@@ -1,6 +1,8 @@
-👋 Hi, I’m Will K
-👀 I love web technologies especiallly JavaScript and it's different
-💞️ I’m looking to collaborate on a Js project and I hope to learn something new
+👋 Hi, I’m Will K,
+
+👀 I love web technologies especiallly JavaScript and it's different frameworks.
+💞️ I’m looking for an open source project to contribute to, and I hope to learn something new.
+
 📫 Get me at dev.willk@gmail.com
 
 <!---
